@@ -1290,3 +1290,7 @@ h1.sponsor {
     color: cadetblue;
     text-decoration: dotted;
 }
+
+img.round {
+	border-radius: 50%
+}
