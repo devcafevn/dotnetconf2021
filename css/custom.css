@@ -1,12 +1,20 @@
 ﻿header {
-    background: url(../images/background2020-01.jpg) center center;
+    background: url(../images/background2021.png) center center;
     background-size: cover;
     height: 720px;
 }
 
 header .navbar .navbar-brand {
-    color:#512bd4;
+    color:white;
     font-size: 24px;
+}
+
+header .navbar .navbar-toggler {
+	background-color:white;
+}
+
+header .navbar ul.navbar-nav li a {
+    color:white;
 }
 
 header .navbar .navbar-brand:focus {
